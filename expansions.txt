@@ -1,4 +1,10 @@
+
 *nix Programming Mammals
+#
+#
+# <3
+# insert them in alphabetical order to help reduce merge conflicts.
+# please don't add your expansions down here!
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -601,6 +607,7 @@ Nomnom Pumpernickle Muffins
 Non Polar Magnetism
 Non Productive Monday
 Non Programming Manager
+Non-Negotiable Present Machine
 Non-Partisan Magicians
 Non-Permeable Membrane
 Non-Polite Mother
@@ -682,6 +689,8 @@ Not a Penny More
 Not a Propaganda Machine
 Not Pancake Mix
 Not Parents' Money
+Not Parlour Magic
+Not Partical Magnification
 Not Particularly Meaningful
 Not Pictured: Mangoes
 Not Preposterously Macho
@@ -835,8 +844,3 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-#
-# please don't add your expansions down here!
-# insert them in alphabetical order to help reduce merge conflicts.
-#
-# <3
